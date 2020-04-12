@@ -1,11 +1,27 @@
 ---
-layout: page
+layout: single
 title: geum ju
 permalink: /about/
+
 ---
 
 
-[![\](https://image.fmkorea.com/files/attach/new/20191117/486616/8236218/2390814965/574155d7ea63eeeb46cf8b2b34934c86.jpg)]: 
+
+
+
+#### 나이: 21
+
+#### 이름: 이금주
+
+#### 성별: 남
+
+#### 여자친구 유무: o
+
+#### 키: 170cm
+
+#### 장래희망: 미정
+
+##### 인스타 ID:  geumgu5605
 
 
 
